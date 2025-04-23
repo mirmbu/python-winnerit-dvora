@@ -7,7 +7,6 @@
 #print(string[0::2])
 #print((string[1::2]))
 #print(string[::-1])
-from operator import index
 
 #Task 2
 #string2 = str(input("Enter a message: "))
